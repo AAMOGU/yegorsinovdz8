@@ -1,0 +1,51 @@
+.bt {
+    background-color: #25AEF3;
+    display: block;
+    width: 200px;
+    padding: 15px;
+    text-align: center;
+    text-decoration: none;
+    font-family: 'Staatliches', cursive;
+    line-height: 50px;
+    transition: 1s;
+    margin-bottom: 50px;
+}
+.bt:hover {
+    background-color: transparent;
+    color: #6617F5;
+    border: 3px solid #6617F5;
+}
+.bt2 {
+    background-color: #FFFF00;
+    display: block;
+    width: 200px;
+    padding: 15px;
+    text-align: center;
+    text-decoration: none;
+    font-family: 'Staatliches', cursive;
+    line-height: 50px;
+    transition: 1s;
+    margin-bottom: 50px;
+}
+.bt2:hover {
+    background-color: transparent;
+    color: #6617F5;
+    border: 3px solid #6617F5;
+}
+.bt3 {
+    background-color: #7491C2;
+    display: block;
+    width: 200px;
+    padding: 15px;
+    text-align: center;
+    text-decoration: none;
+    font-family: 'Staatliches', cursive;
+    line-height: 50px;
+    transition: 1s;
+    margin-bottom: 50px;
+}
+.bt3:hover {
+    background-color: transparent;
+    color: #6617F5;
+    border: 3px solid #6617F5;
+}
